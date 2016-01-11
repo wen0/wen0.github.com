@@ -1,2 +1,1 @@
-# wen0.github.com
-test
+wen0.github.com
